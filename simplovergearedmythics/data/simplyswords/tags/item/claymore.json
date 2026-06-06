@@ -1,0 +1,28 @@
+{
+    "replace": false,
+    "values": [
+"simplyswords:mythicmetals_compat/stormyx/stormyx_claymore",
+"simplyswords:mythicmetals_compat/aquarium/aquarium_claymore",
+"simplyswords:mythicmetals_compat/bronze/bronze_claymore",
+"simplyswords:mythicmetals_compat/palladium/palladium_claymore",
+"simplyswords:netherite_claymore",
+"simplyswords:mythicmetals_compat/star_platinum/star_platinum_claymore",
+"simplyswords:diamond_claymore",
+"simplyswords:mythicmetals_compat/carmot/carmot_claymore",
+"simplyswords:mythicmetals_compat/orichalcum/orichalcum_claymore",
+"simplyswords:mythicmetals_compat/kyber/kyber_claymore",
+"simplyswords:mythicmetals_compat/adamantite/adamantite_claymore",
+"simplyswords:iron_claymore",
+"simplyswords:mythicmetals_compat/celestium/celestium_claymore",
+"simplyswords:mythicmetals_compat/osmium/osmium_claymore",
+"simplyswords:mythicmetals_compat/runite/runite_claymore",
+"simplyswords:mythicmetals_compat/mythril/mythril_claymore",
+"simplyswords:mythicmetals_compat/metallurgium/metallurgium_claymore",
+"simplyswords:mythicmetals_compat/steel/steel_claymore",
+"simplyswords:mythicmetals_compat/prometheum/prometheum_claymore",
+"simplyswords:gold_claymore",
+"simplyswords:mythicmetals_compat/banglum/banglum_claymore",
+"simplyswords:mythicmetals_compat/quadrillum/quadrillum_claymore",
+"simplyswords:runic_claymore"
+    ]
+}

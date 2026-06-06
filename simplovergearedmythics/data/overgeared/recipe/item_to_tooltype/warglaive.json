@@ -1,0 +1,9 @@
+{
+  "type": "overgeared:item_to_tooltype",
+  "tag": [
+    {
+      "tag": "simplyswords:warglaive"
+    }
+  ],
+  "tooltype": "warglaive"
+}
