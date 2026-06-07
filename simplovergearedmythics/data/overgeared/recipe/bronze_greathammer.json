@@ -1,0 +1,30 @@
+{
+  "type": "overgeared:forging",
+  "category": "misc",
+  "hammering": 6,
+  "has_polishing": true,
+  "has_quality": true,
+  "key": {
+    "#": {
+      "tag": "c:wood_sticks"
+    },
+    "X": {
+      "item": "mythicmetals:bronze_ingot"
+    },
+    "Y": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "need_quenching": false,
+  "pattern": [
+    "XXX",
+    "YYY",
+    " # "
+  ],
+  "result": {
+    "count": 1,
+    "id": "simplyswords:mythicmetals_compat/bronze/bronze_greathammer"
+  },
+  "show_notification": false,
+  "tier": "iron"
+}

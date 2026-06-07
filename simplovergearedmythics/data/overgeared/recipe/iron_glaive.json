@@ -1,0 +1,27 @@
+{
+  "type": "overgeared:forging",
+  "category": "misc",
+  "hammering": 6,
+  "has_polishing": true,
+  "has_quality": true,
+  "key": {
+    "#": {
+      "tag": "c:wood_sticks"
+    },
+    "X": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "need_quenching": false,
+  "pattern": [
+    "  X",
+    " #X",
+    "#  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "simplyswords:iron_glaive"
+  },
+  "show_notification": false,
+  "tier": "iron"
+}

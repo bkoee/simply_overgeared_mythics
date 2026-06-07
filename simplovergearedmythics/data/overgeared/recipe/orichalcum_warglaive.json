@@ -1,0 +1,30 @@
+{
+  "type": "overgeared:forging",
+  "category": "misc",
+  "hammering": 6,
+  "has_polishing": true,
+  "has_quality": true,
+  "key": {
+    "#": {
+      "tag": "c:wood_sticks"
+    },
+    "X": {
+      "item": "mythicmetals:orichalcum_ingot"
+    },
+    "Y": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "need_quenching": false,
+  "pattern": [
+    " Y ",
+    "X#X",
+    "   "
+  ],
+  "result": {
+    "count": 1,
+    "id": "simplyswords:mythicmetals_compat/orichalcum/orichalcum_warglaive"
+  },
+  "show_notification": false,
+  "tier": "iron"
+}

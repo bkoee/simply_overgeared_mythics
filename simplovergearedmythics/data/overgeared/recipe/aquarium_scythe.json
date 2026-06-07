@@ -1,0 +1,27 @@
+{
+  "type": "overgeared:forging",
+  "category": "misc",
+  "hammering": 6,
+  "has_polishing": true,
+  "has_quality": true,
+  "key": {
+    "#": {
+      "tag": "c:wood_sticks"
+    },
+    "X": {
+      "item": "mythicmetals:aquarium_ingot"
+    }
+  },
+  "need_quenching": false,
+  "pattern": [
+    "XX#",
+    "X# ",
+    "#  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "simplyswords:mythicmetals_compat/aquarium/aquarium_scythe"
+  },
+  "show_notification": false,
+  "tier": "iron"
+}

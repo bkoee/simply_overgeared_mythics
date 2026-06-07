@@ -1,0 +1,32 @@
+{
+  "type": "overgeared:forging",
+  "category": "misc",
+  "blueprint": [
+    "pickaxe"
+  ],
+  "requires_blueprint": false,
+  "hammering": 3,
+  "has_quality": true,
+  "minimum_quality": "poor",
+  "needs_minigame": false,
+  "has_polishing": true,
+  "need_quenching": true,
+  "key": {
+    "#": {
+      "tag": "c:wood_sticks",
+      "requires_heated": true,
+    "transfer_nbt": false
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "simplyswords:mythicmetals_compat/stormyx/stormyx_claymore"
+  },
+  "show_notification": false,
+  "tier": "iron"
+}
