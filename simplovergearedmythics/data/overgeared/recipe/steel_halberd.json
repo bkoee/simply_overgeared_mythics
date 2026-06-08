@@ -1,7 +1,7 @@
 {
   "type": "overgeared:forging",
   "category": "misc",
-  "hammering": 6,
+  "hammering": 4,
   "has_polishing": true,
   "has_quality": true,
   "key": {
@@ -26,5 +26,6 @@
     "id": "simplyswords:mythicmetals_compat/steel/steel_halberd"
   },
   "show_notification": false,
-  "tier": "iron"
+  "tier": "iron",
+  "quality_difficulty": "perfect"
 }

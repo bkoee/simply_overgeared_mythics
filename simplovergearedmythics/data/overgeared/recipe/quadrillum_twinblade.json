@@ -1,7 +1,7 @@
 {
   "type": "overgeared:forging",
   "category": "misc",
-  "hammering": 6,
+  "hammering": 3,
   "has_polishing": true,
   "has_quality": true,
   "key": {
@@ -23,5 +23,6 @@
     "id": "simplyswords:mythicmetals_compat/quadrillum/quadrillum_twinblade"
   },
   "show_notification": false,
-  "tier": "iron"
+  "tier": "iron",
+  "quality_difficulty": "expert"
 }

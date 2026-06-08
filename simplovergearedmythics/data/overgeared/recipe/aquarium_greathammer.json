@@ -26,5 +26,6 @@
     "id": "simplyswords:mythicmetals_compat/aquarium/aquarium_greathammer"
   },
   "show_notification": false,
-  "tier": "iron"
+  "tier": "iron",
+  "quality_difficulty": "poor"
 }

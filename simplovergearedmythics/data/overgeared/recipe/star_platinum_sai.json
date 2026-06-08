@@ -1,7 +1,7 @@
 {
   "type": "overgeared:forging",
   "category": "misc",
-  "hammering": 6,
+  "hammering": 2,
   "has_polishing": true,
   "has_quality": true,
   "key": {
@@ -23,5 +23,6 @@
     "id": "simplyswords:mythicmetals_compat/star_platinum/star_platinum_sai"
   },
   "show_notification": false,
-  "tier": "iron"
+  "tier": "iron",
+  "quality_difficulty": "master"
 }

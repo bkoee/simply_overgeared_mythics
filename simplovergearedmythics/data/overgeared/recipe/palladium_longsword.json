@@ -23,5 +23,6 @@
     "id": "simplyswords:mythicmetals_compat/palladium/palladium_longsword"
   },
   "show_notification": false,
-  "tier": "iron"
+  "tier": "iron",
+  "quality_difficulty": "perfect"
 }

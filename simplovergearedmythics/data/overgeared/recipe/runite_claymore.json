@@ -1,0 +1,31 @@
+{
+  "type": "overgeared:forging",
+  "category": "misc",
+  "hammering": 9,
+  "has_polishing": true,
+  "has_quality": true,
+  "key": {
+    "#": {
+      "tag": "c:wood_sticks"
+    },
+    "X": {
+      "item": "mythicmetals:runite_ingot"
+    },
+    "Y": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "need_quenching": false,
+  "pattern": [
+    " YX",
+    "YXY",
+    "#Y "
+  ],
+  "result": {
+    "count": 1,
+    "id": "simplyswords:mythicmetals_compat/runite/runite_claymore"
+  },
+  "show_notification": false,
+  "tier": "iron",
+  "quality_difficulty": "perfect"
+}

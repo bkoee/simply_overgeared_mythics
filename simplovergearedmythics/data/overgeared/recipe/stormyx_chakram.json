@@ -1,0 +1,31 @@
+{
+  "type": "overgeared:forging",
+  "category": "misc",
+  "hammering": 1,
+  "has_polishing": true,
+  "has_quality": true,
+  "key": {
+    "#": {
+      "tag": "c:wood_sticks"
+    },
+    "X": {
+      "item": "mythicmetals:stormyx_ingot"
+    },
+    "Y": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "need_quenching": false,
+  "pattern": [
+    "YXY",
+    "X X",
+    "Y#Y"
+  ],
+  "result": {
+    "count": 1,
+    "id": "simplyswords:mythicmetals_compat/stormyx/stormyx_chakram"
+  },
+  "show_notification": false,
+  "tier": "iron",
+  "quality_difficulty": "master"
+}

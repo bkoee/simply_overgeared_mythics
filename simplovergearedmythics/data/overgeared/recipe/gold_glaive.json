@@ -1,9 +1,10 @@
 {
   "type": "overgeared:forging",
   "category": "misc",
-  "hammering": 6,
+  "hammering": 7,
   "has_polishing": true,
   "has_quality": true,
+  "quality_difficulty": "poor",
   "key": {
     "#": {
       "tag": "c:wood_sticks"
